@@ -1,0 +1,1414 @@
+{
+  "vessels": [
+    {
+      "mmsi": "261026970",
+      "name": "VATAHA",
+      "latitude": "54.357647",
+      "longitude": "18.782368",
+      "speed": "0",
+      "course": "163",
+      "heading": "138",
+      "typeSpecific": "Sailing Vessel"
+    },
+    {
+      "mmsi": "992611911",
+      "name": "DN G E",
+      "latitude": "54.373352",
+      "longitude": "18.870794",
+      "speed": null,
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Special Mark - Sea Farm"
+    },
+    {
+      "mmsi": "992611110",
+      "name": "N.PORT R",
+      "latitude": "54.416485",
+      "longitude": "18.658815",
+      "speed": null,
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Beacon, Port Hand"
+    },
+    {
+      "mmsi": "255806439",
+      "name": "MAINTAL",
+      "latitude": "54.364895",
+      "longitude": "18.650497",
+      "speed": "0",
+      "course": "94",
+      "heading": "149",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "218858000",
+      "name": "HENRIKE",
+      "latitude": "54.443535",
+      "longitude": "18.64769",
+      "speed": "0",
+      "course": "220",
+      "heading": "148",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "304791000",
+      "name": "VEGA LUISE",
+      "latitude": "54.383915",
+      "longitude": "18.660105",
+      "speed": "0",
+      "course": "313",
+      "heading": "217",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "477308100",
+      "name": "COSCO AQUARIUS",
+      "latitude": "54.387718",
+      "longitude": "18.711256",
+      "speed": "0",
+      "course": "340",
+      "heading": "325",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "256708000",
+      "name": "CMA CGM MERMAID",
+      "latitude": "54.404255",
+      "longitude": "18.747425",
+      "speed": "78",
+      "course": "253",
+      "heading": "254",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "477849400",
+      "name": "MAERSK MAKUTU",
+      "latitude": "54.38813",
+      "longitude": "18.719778",
+      "speed": "0",
+      "course": "0",
+      "heading": "222",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "256800000",
+      "name": "CMA CGM ERMITAGE",
+      "latitude": "54.457855",
+      "longitude": "18.840755",
+      "speed": "0",
+      "course": "32",
+      "heading": "109",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "366479000",
+      "name": "ENDURANCE",
+      "latitude": "54.378502",
+      "longitude": "18.65996",
+      "speed": "0",
+      "course": "216",
+      "heading": "165",
+      "typeSpecific": "Vehicles Carrier"
+    },
+    {
+      "mmsi": "305540000",
+      "name": "LANGENESS",
+      "latitude": "54.48587",
+      "longitude": "18.968176",
+      "speed": "88",
+      "course": "206",
+      "heading": "203",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "255705000",
+      "name": "AVA D",
+      "latitude": "54.446381",
+      "longitude": "18.831005",
+      "speed": "0",
+      "course": "101",
+      "heading": "123",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "209968000",
+      "name": "RIX STREAM",
+      "latitude": "54.447906",
+      "longitude": "18.64415",
+      "speed": "0",
+      "course": "210",
+      "heading": "152",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "261010711",
+      "name": "MIS",
+      "latitude": "54.407646",
+      "longitude": "18.663494",
+      "speed": "0",
+      "course": "64",
+      "heading": "326",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "210529000",
+      "name": "FIONA B",
+      "latitude": "54.366055",
+      "longitude": "18.647892",
+      "speed": "0",
+      "course": "155",
+      "heading": "155",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "563288800",
+      "name": "SEASPAN MONTEVIDEO",
+      "latitude": "54.467232",
+      "longitude": "18.821301",
+      "speed": "0",
+      "course": "126",
+      "heading": "128",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "235096892",
+      "name": "ARROW",
+      "latitude": "54.371967",
+      "longitude": "18.660633",
+      "speed": "0",
+      "course": "171",
+      "heading": "346",
+      "typeSpecific": "Ro-Ro Cargo Ship"
+    },
+    {
+      "mmsi": "316013340",
+      "name": "UMIAK 1",
+      "latitude": "54.379993",
+      "longitude": "18.654501",
+      "speed": "0",
+      "course": "247",
+      "heading": "254",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "218441000",
+      "name": "MSC LIVORNO",
+      "latitude": "54.446865",
+      "longitude": "18.993637",
+      "speed": "113",
+      "course": "25",
+      "heading": "23",
+      "typeSpecific": "Container Ship"
+    },
+    {
+      "mmsi": "261184890",
+      "name": "MANAT",
+      "latitude": "54.396057",
+      "longitude": "18.760998",
+      "speed": "1",
+      "course": "92",
+      "heading": null,
+      "typeSpecific": "Other type"
+    },
+    {
+      "mmsi": "261003420",
+      "name": "SG 312 KAPER 2",
+      "latitude": "54.408485",
+      "longitude": "18.665861",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Fishing Support Vessel"
+    },
+    {
+      "mmsi": "261009365",
+      "name": "SCS 21",
+      "latitude": "54.441521",
+      "longitude": "18.629972",
+      "speed": "185",
+      "course": "148",
+      "heading": null,
+      "typeSpecific": "Law enforcment"
+    },
+    {
+      "mmsi": "261182072",
+      "name": "BIZON O 137",
+      "latitude": "54.385818",
+      "longitude": "18.671999",
+      "speed": "0",
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Other type"
+    },
+    {
+      "mmsi": "636022919",
+      "name": "ESRA C",
+      "latitude": "54.369282",
+      "longitude": "18.665661",
+      "speed": "0",
+      "course": "314",
+      "heading": "168",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "261355001",
+      "name": "SG 301 BORDER GUARD",
+      "latitude": "54.408588",
+      "longitude": "18.664455",
+      "speed": "0",
+      "course": "122",
+      "heading": "273",
+      "typeSpecific": "Patrol Vessel"
+    },
+    {
+      "mmsi": "261028820",
+      "name": "VEGA",
+      "latitude": "54.406601",
+      "longitude": "18.664667",
+      "speed": "0",
+      "course": "238",
+      "heading": "321",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261006311",
+      "name": "MASADA",
+      "latitude": "54.358501",
+      "longitude": "18.781397",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261082080",
+      "name": "H 2 MIESZKO",
+      "latitude": "54.364662",
+      "longitude": "18.650061",
+      "speed": "0",
+      "course": "173",
+      "heading": "152",
+      "typeSpecific": "Military ops"
+    },
+    {
+      "mmsi": "538009131",
+      "name": "GENCO CONSTELLATION",
+      "latitude": "54.524715",
+      "longitude": "18.643692",
+      "speed": "0",
+      "course": "195",
+      "heading": "113",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "261001250",
+      "name": "AGAT",
+      "latitude": "54.357471",
+      "longitude": "18.705811",
+      "speed": "0",
+      "course": null,
+      "heading": "193",
+      "typeSpecific": "Passenger Ship"
+    },
+    {
+      "mmsi": "261007295",
+      "name": "GALAR GDANSKI 5",
+      "latitude": "54.361679",
+      "longitude": "18.660442",
+      "speed": "2",
+      "course": "327",
+      "heading": "31",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "246384000",
+      "name": "JULIAN",
+      "latitude": "54.440659",
+      "longitude": "18.737577",
+      "speed": "61",
+      "course": "337",
+      "heading": "338",
+      "typeSpecific": "Hopper Dredger"
+    },
+    {
+      "mmsi": "261194000",
+      "name": "ZODIAK",
+      "latitude": "54.409256",
+      "longitude": "18.665449",
+      "speed": "0",
+      "course": "92",
+      "heading": "287",
+      "typeSpecific": "Buoy/Lighthouse Vessel"
+    },
+    {
+      "mmsi": "261006929",
+      "name": "MOON YACHT",
+      "latitude": "54.359886",
+      "longitude": "18.670225",
+      "speed": "0",
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "563246600",
+      "name": "21 GLORY",
+      "latitude": "54.456642",
+      "longitude": "18.816374",
+      "speed": "0",
+      "course": "168",
+      "heading": "146",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "356731000",
+      "name": "GRAND NORD",
+      "latitude": "54.364639",
+      "longitude": "18.646416",
+      "speed": "0",
+      "course": "0",
+      "heading": "0",
+      "typeSpecific": "Passenger/General Cargo Ship"
+    },
+    {
+      "mmsi": "261002110",
+      "name": "SMPRC110",
+      "latitude": "54.357208",
+      "longitude": "18.675049",
+      "speed": "0",
+      "course": "339",
+      "heading": "314",
+      "typeSpecific": "Motor Hopper"
+    },
+    {
+      "mmsi": "261031510",
+      "name": "CZARNA PERLA",
+      "latitude": "54.382706",
+      "longitude": "18.660774",
+      "speed": "58",
+      "course": "29",
+      "heading": null,
+      "typeSpecific": "Passenger ship"
+    },
+    {
+      "mmsi": "636020315",
+      "name": "ECO LEGACY",
+      "latitude": "54.525215",
+      "longitude": "18.628183",
+      "speed": "0",
+      "course": "318",
+      "heading": "125",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "305810000",
+      "name": "WILSON DAGENHAM",
+      "latitude": "54.372368",
+      "longitude": "18.664415",
+      "speed": "0",
+      "course": "317",
+      "heading": "165",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "261056070",
+      "name": "NOSOROZEC G01",
+      "latitude": "54.356293",
+      "longitude": "18.690622",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261183700",
+      "name": "INKA",
+      "latitude": "54.383659",
+      "longitude": "18.674826",
+      "speed": "0",
+      "course": null,
+      "heading": "166",
+      "typeSpecific": "Tanker"
+    },
+    {
+      "mmsi": "255916285",
+      "name": "SOLITAS H",
+      "latitude": "54.365768",
+      "longitude": "18.663952",
+      "speed": "0",
+      "course": "320",
+      "heading": "8",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "261082060",
+      "name": "ATLAS",
+      "latitude": "54.405453",
+      "longitude": "18.749413",
+      "speed": "58",
+      "course": "243",
+      "heading": "247",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "219020398",
+      "name": "SKOVEN",
+      "latitude": "54.391171",
+      "longitude": "18.672171",
+      "speed": "0",
+      "course": "161",
+      "heading": "162",
+      "typeSpecific": "Standby Safety Vessel"
+    },
+    {
+      "mmsi": "261007298",
+      "name": "GALAR GDANSKI 3",
+      "latitude": "54.359428",
+      "longitude": "18.664042",
+      "speed": "37",
+      "course": "147",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261002100",
+      "name": "SM PRC 108",
+      "latitude": "54.35886",
+      "longitude": "18.671726",
+      "speed": "1",
+      "course": "184",
+      "heading": "311",
+      "typeSpecific": "Motor Hopper"
+    },
+    {
+      "mmsi": "261000840",
+      "name": "INZ. ST. LEGOWSKI",
+      "latitude": "54.373611",
+      "longitude": "18.659977",
+      "speed": "0",
+      "course": "147",
+      "heading": "165",
+      "typeSpecific": "Hopper Dredger"
+    },
+    {
+      "mmsi": "261011160",
+      "name": "AJAX",
+      "latitude": "54.401688",
+      "longitude": "18.722219",
+      "speed": "202",
+      "course": "272",
+      "heading": null,
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261000197",
+      "name": "BOBR",
+      "latitude": "54.405579",
+      "longitude": "18.667742",
+      "speed": "0",
+      "course": "129",
+      "heading": "281",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261498000",
+      "name": "HEKTOR",
+      "latitude": "54.35754",
+      "longitude": "18.674177",
+      "speed": "0",
+      "course": null,
+      "heading": "134",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "253477000",
+      "name": "VAGANT",
+      "latitude": "54.367325",
+      "longitude": "18.648981",
+      "speed": "0",
+      "course": "333",
+      "heading": "319",
+      "typeSpecific": "Offshore Support Vessel"
+    },
+    {
+      "mmsi": "257276000",
+      "name": "NORDSTJERNEN",
+      "latitude": "54.379192",
+      "longitude": "18.654196",
+      "speed": "0",
+      "course": null,
+      "heading": "253",
+      "typeSpecific": "Passenger/General Cargo Ship"
+    },
+    {
+      "mmsi": "261004962",
+      "name": "URSA",
+      "latitude": "54.401546",
+      "longitude": "18.682055",
+      "speed": "0",
+      "course": "240",
+      "heading": "358",
+      "typeSpecific": "Hopper Dredger"
+    },
+    {
+      "mmsi": "261057080",
+      "name": "TINTAMARRE",
+      "latitude": "54.466595",
+      "longitude": "18.925247",
+      "speed": "13",
+      "course": "152",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261198000",
+      "name": "ECOMAL II",
+      "latitude": "54.380409",
+      "longitude": "18.661715",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Bunkering Tanker"
+    },
+    {
+      "mmsi": "261004530",
+      "name": "NEPTUN W",
+      "latitude": "54.375435",
+      "longitude": "18.657406",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Towing vessel"
+    },
+    {
+      "mmsi": "219003122",
+      "name": "AARSLEFF 102",
+      "latitude": "54.396133",
+      "longitude": "18.76012",
+      "speed": "0",
+      "course": "304",
+      "heading": null,
+      "typeSpecific": "Pontoon"
+    },
+    {
+      "mmsi": "212198000",
+      "name": "MARJATTA",
+      "latitude": "54.373356",
+      "longitude": "18.663984",
+      "speed": "0",
+      "course": "235",
+      "heading": "165",
+      "typeSpecific": "General Cargo Ship"
+    },
+    {
+      "mmsi": "265339000",
+      "name": "ORIGO",
+      "latitude": "54.364147",
+      "longitude": "18.654449",
+      "speed": "1",
+      "course": "166",
+      "heading": null,
+      "typeSpecific": "Passenger (Cruise) Ship"
+    },
+    {
+      "mmsi": "261097010",
+      "name": "SCS 12",
+      "latitude": "54.358253",
+      "longitude": "18.779844",
+      "speed": "0",
+      "course": "312",
+      "heading": "211",
+      "typeSpecific": "Local type"
+    },
+    {
+      "mmsi": "261016340",
+      "name": "PETRO 3",
+      "latitude": "54.367348",
+      "longitude": "18.780228",
+      "speed": "0",
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Dredging or UW ops"
+    },
+    {
+      "mmsi": "246366000",
+      "name": "BRAGE R",
+      "latitude": "54.431194",
+      "longitude": "18.766098",
+      "speed": "35",
+      "course": "210",
+      "heading": "202",
+      "typeSpecific": "Hopper Dredger"
+    },
+    {
+      "mmsi": "636021552",
+      "name": "TWIST",
+      "latitude": "54.458138",
+      "longitude": "18.884598",
+      "speed": "1",
+      "course": "211",
+      "heading": "146",
+      "typeSpecific": "Chemical/Oil Products Tanker"
+    },
+    {
+      "mmsi": "253834000",
+      "name": "VERSUTIUS",
+      "latitude": "54.372849",
+      "longitude": "18.657265",
+      "speed": "0",
+      "course": "113",
+      "heading": "204",
+      "typeSpecific": "Chemical/Oil Products Tanker"
+    },
+    {
+      "mmsi": "636019972",
+      "name": "KIRSTEN OLDENDORFF",
+      "latitude": "54.437866",
+      "longitude": "18.826504",
+      "speed": "0",
+      "course": "278",
+      "heading": "126",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "229587000",
+      "name": "VULCANIA",
+      "latitude": "54.464851",
+      "longitude": "18.855328",
+      "speed": "0",
+      "course": "272",
+      "heading": "138",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "261186262",
+      "name": "TUR W 01",
+      "latitude": "54.409714",
+      "longitude": "18.719347",
+      "speed": "63",
+      "course": "116",
+      "heading": null,
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261004168",
+      "name": "ARES",
+      "latitude": "54.40522",
+      "longitude": "18.752962",
+      "speed": "78",
+      "course": "253",
+      "heading": null,
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261031680",
+      "name": "LEW",
+      "latitude": "54.400387",
+      "longitude": "18.67984",
+      "speed": "79",
+      "course": "178",
+      "heading": null,
+      "typeSpecific": "Fishing Vessel"
+    },
+    {
+      "mmsi": "261055030",
+      "name": "CONRAD GOLIATH",
+      "latitude": "54.357868",
+      "longitude": "18.701035",
+      "speed": "0",
+      "course": "31",
+      "heading": "278",
+      "typeSpecific": "Dredging or UW ops"
+    },
+    {
+      "mmsi": "244740420",
+      "name": "CHARLOCK",
+      "latitude": "54.375919",
+      "longitude": "18.65877",
+      "speed": "0",
+      "course": "349",
+      "heading": "165",
+      "typeSpecific": "Hopper Dredger"
+    },
+    {
+      "mmsi": "261039020",
+      "name": "OLE",
+      "latitude": "54.578705",
+      "longitude": "18.794014",
+      "speed": "40",
+      "course": "202",
+      "heading": "191",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "357656000",
+      "name": "SION STAR",
+      "latitude": "54.38168",
+      "longitude": "18.653563",
+      "speed": "0",
+      "course": "147",
+      "heading": "254",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "261008769",
+      "name": "OILER",
+      "latitude": "54.395634",
+      "longitude": "18.758869",
+      "speed": "0",
+      "course": "0",
+      "heading": null,
+      "typeSpecific": "Other type"
+    },
+    {
+      "mmsi": "563260600",
+      "name": "NAVIG8 PROMISE",
+      "latitude": "54.402454",
+      "longitude": "18.719349",
+      "speed": "15",
+      "course": "299",
+      "heading": "128",
+      "typeSpecific": "Crude Oil Tanker"
+    },
+    {
+      "mmsi": "261183810",
+      "name": "POLA",
+      "latitude": "54.381832",
+      "longitude": "18.662001",
+      "speed": "0",
+      "course": "330",
+      "heading": "6",
+      "typeSpecific": "Unknown"
+    },
+    {
+      "mmsi": "261031760",
+      "name": "PIORUN",
+      "latitude": "54.399422",
+      "longitude": "18.679098",
+      "speed": "5",
+      "course": "212",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "230022510",
+      "name": "ALICE",
+      "latitude": "54.561081",
+      "longitude": "18.791401",
+      "speed": "32",
+      "course": "298",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261036130",
+      "name": "HERKULES",
+      "latitude": "54.403828",
+      "longitude": "18.718634",
+      "speed": "12",
+      "course": "294",
+      "heading": "186",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261012680",
+      "name": "IMOROS 2",
+      "latitude": "54.392517",
+      "longitude": "18.673759",
+      "speed": "1",
+      "course": "195",
+      "heading": "6",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261009465",
+      "name": "ARGO",
+      "latitude": "54.406181",
+      "longitude": "18.665443",
+      "speed": "0",
+      "course": "38",
+      "heading": "311",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261000210",
+      "name": "AGIS",
+      "latitude": "54.40678",
+      "longitude": "18.664511",
+      "speed": "0",
+      "course": "33",
+      "heading": "149",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261003330",
+      "name": "TAURUS",
+      "latitude": "54.405907",
+      "longitude": "18.666092",
+      "speed": "0",
+      "course": "285",
+      "heading": null,
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261482000",
+      "name": "VIRTUS",
+      "latitude": "54.40398",
+      "longitude": "18.745699",
+      "speed": "79",
+      "course": "248",
+      "heading": "250",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261009805",
+      "name": "ORP JASKOLKA",
+      "latitude": "54.372612",
+      "longitude": "18.642729",
+      "speed": "0",
+      "course": "160",
+      "heading": "347",
+      "typeSpecific": "Military ops"
+    },
+    {
+      "mmsi": "261004658",
+      "name": "PAX",
+      "latitude": "54.401825",
+      "longitude": "18.721569",
+      "speed": "12",
+      "course": "303",
+      "heading": "237",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261025960",
+      "name": "SANSARA",
+      "latitude": "54.390537",
+      "longitude": "18.830912",
+      "speed": "12",
+      "course": "48",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "212060000",
+      "name": "ORIENT CENTAUR",
+      "latitude": "54.392406",
+      "longitude": "18.711807",
+      "speed": "0",
+      "course": "337",
+      "heading": "239",
+      "typeSpecific": "Bulk Carrier"
+    },
+    {
+      "mmsi": "261089030",
+      "name": "WACEK",
+      "latitude": "54.397202",
+      "longitude": "18.68062",
+      "speed": "0",
+      "course": "347",
+      "heading": null,
+      "typeSpecific": "Other type"
+    },
+    {
+      "mmsi": "261008586",
+      "name": "MOTLAWA III",
+      "latitude": "54.417683",
+      "longitude": "18.635366",
+      "speed": "222",
+      "course": "150",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261182201",
+      "name": "NOSOROZEC S 05",
+      "latitude": "54.398067",
+      "longitude": "18.754316",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "WIG"
+    },
+    {
+      "mmsi": "261080070",
+      "name": "PILOT 23",
+      "latitude": "54.405708",
+      "longitude": "18.652567",
+      "speed": "2",
+      "course": "123",
+      "heading": "58",
+      "typeSpecific": "Pilot"
+    },
+    {
+      "mmsi": "261182638",
+      "name": "RSP SB 52",
+      "latitude": "54.39476",
+      "longitude": "18.763638",
+      "speed": "0",
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Cargo ship"
+    },
+    {
+      "mmsi": "261006656",
+      "name": "SAGA",
+      "latitude": "54.411667",
+      "longitude": "18.997595",
+      "speed": "44",
+      "course": "279",
+      "heading": "280",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261008719",
+      "name": "MOTLAWA V",
+      "latitude": "54.356651",
+      "longitude": "18.666533",
+      "speed": "22",
+      "course": "5",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261008375",
+      "name": "SKY2 SOLAR CATAMARAN",
+      "latitude": "54.359688",
+      "longitude": "18.663759",
+      "speed": "34",
+      "course": "150",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261199000",
+      "name": "ECOMAL",
+      "latitude": "54.382622",
+      "longitude": "18.660967",
+      "speed": "29",
+      "course": "189",
+      "heading": "177",
+      "typeSpecific": "Bunkering Tanker"
+    },
+    {
+      "mmsi": "219031310",
+      "name": "STENA EBBA",
+      "latitude": "54.534546",
+      "longitude": "18.815889",
+      "speed": "150",
+      "course": "40",
+      "heading": "41",
+      "typeSpecific": "Passenger/Ro-Ro Cargo Ship"
+    },
+    {
+      "mmsi": "305425000",
+      "name": "BULKNES",
+      "latitude": "54.397835",
+      "longitude": "18.681334",
+      "speed": "1",
+      "course": "51",
+      "heading": "23",
+      "typeSpecific": "Self Discharging Bulk Carrier"
+    },
+    {
+      "mmsi": "261006828",
+      "name": "SYRIUSZ",
+      "latitude": "54.399067",
+      "longitude": "18.69388",
+      "speed": "0",
+      "course": "26",
+      "heading": "339",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261007020",
+      "name": "PILOT 22",
+      "latitude": "54.405598",
+      "longitude": "18.652418",
+      "speed": "1",
+      "course": "60",
+      "heading": null,
+      "typeSpecific": "Pilot"
+    },
+    {
+      "mmsi": "370603000",
+      "name": "MINTAKA I",
+      "latitude": "54.466442",
+      "longitude": "18.706543",
+      "speed": "79",
+      "course": "44",
+      "heading": "44",
+      "typeSpecific": "Research Vessel"
+    },
+    {
+      "mmsi": "261031780",
+      "name": "PORTOWIEC",
+      "latitude": "54.399586",
+      "longitude": "18.679192",
+      "speed": "6",
+      "course": "341",
+      "heading": "0",
+      "typeSpecific": "Port tender"
+    },
+    {
+      "mmsi": "261036820",
+      "name": "CONRAD CONSUL",
+      "latitude": "54.372974",
+      "longitude": "18.645889",
+      "speed": "0",
+      "course": "253",
+      "heading": "134",
+      "typeSpecific": "Crane Ship"
+    },
+    {
+      "mmsi": "261000140",
+      "name": "TYTAN",
+      "latitude": "54.405739",
+      "longitude": "18.6667",
+      "speed": "0",
+      "course": "310",
+      "heading": "120",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "261038050",
+      "name": "THORR",
+      "latitude": "54.397202",
+      "longitude": "18.680239",
+      "speed": "2",
+      "course": "121",
+      "heading": null,
+      "typeSpecific": "Diving ops"
+    },
+    {
+      "mmsi": "261008827",
+      "name": "JULIA",
+      "latitude": "54.376007",
+      "longitude": "18.775984",
+      "speed": "40",
+      "course": "94",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261186552",
+      "name": "DELFIN",
+      "latitude": "54.397297",
+      "longitude": "18.694059",
+      "speed": "2",
+      "course": "146",
+      "heading": "146",
+      "typeSpecific": "Port tender"
+    },
+    {
+      "mmsi": "261032050",
+      "name": "HYDROMET",
+      "latitude": "54.357368",
+      "longitude": "18.708057",
+      "speed": "0",
+      "course": "99",
+      "heading": null,
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261031310",
+      "name": "KOKONIK",
+      "latitude": "54.366554",
+      "longitude": "18.778872",
+      "speed": "1",
+      "course": "194",
+      "heading": "10",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "232037032",
+      "name": "EVELINE",
+      "latitude": "54.37096",
+      "longitude": "18.779871",
+      "speed": "60",
+      "course": "338",
+      "heading": "338",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261047030",
+      "name": "FELICITY",
+      "latitude": "54.376678",
+      "longitude": "18.661697",
+      "speed": "53",
+      "course": "164",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "319265200",
+      "name": "ZEAHORSE",
+      "latitude": "54.363762",
+      "longitude": "18.65657",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261005640",
+      "name": "SYRENKA",
+      "latitude": "54.357361",
+      "longitude": "18.706644",
+      "speed": "0",
+      "course": "302",
+      "heading": "302",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261019290",
+      "name": "ATHAMAN",
+      "latitude": "54.363953",
+      "longitude": "18.658949",
+      "speed": "25",
+      "course": "302",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261080020",
+      "name": "SHIPMAN",
+      "latitude": "54.367695",
+      "longitude": "18.779058",
+      "speed": "4",
+      "course": "19",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261000983",
+      "name": "SZTORM 1000",
+      "latitude": "54.528755",
+      "longitude": "18.621532",
+      "speed": "43",
+      "course": "60",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261011680",
+      "name": "GROWLER",
+      "latitude": "54.358414",
+      "longitude": "18.781025",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261187400",
+      "name": "MOANA X",
+      "latitude": "54.384163",
+      "longitude": "18.963139",
+      "speed": "37",
+      "course": "254",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261187070",
+      "name": "GO BANANAS",
+      "latitude": "54.37212",
+      "longitude": "18.958946",
+      "speed": "60",
+      "course": "301",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "211209470",
+      "name": "MARCO POLO",
+      "latitude": "54.36758",
+      "longitude": "18.77747",
+      "speed": "0",
+      "course": null,
+      "heading": "0",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261026650",
+      "name": "MOMO ONE",
+      "latitude": "54.397957",
+      "longitude": "18.780609",
+      "speed": "50",
+      "course": "346",
+      "heading": "346",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261006817",
+      "name": "FAST FORWARD",
+      "latitude": "54.357174",
+      "longitude": "18.782206",
+      "speed": "0",
+      "course": null,
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261025260",
+      "name": "BONAWENTURA",
+      "latitude": "54.356148",
+      "longitude": "18.665798",
+      "speed": "1",
+      "course": "201",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261006065",
+      "name": "LARA JANE SOLO",
+      "latitude": "54.367603",
+      "longitude": "18.779242",
+      "speed": "6",
+      "course": "231",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261186506",
+      "name": "LUZ",
+      "latitude": "54.382713",
+      "longitude": "18.836889",
+      "speed": "25",
+      "course": "90",
+      "heading": "91",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261080260",
+      "name": "ALKIONE",
+      "latitude": "54.366894",
+      "longitude": "18.777431",
+      "speed": "1",
+      "course": "0",
+      "heading": "275",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261045020",
+      "name": "NEC TIMIDE",
+      "latitude": "54.366467",
+      "longitude": "18.779278",
+      "speed": "1",
+      "course": "216",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261187220",
+      "name": "URANIA",
+      "latitude": "54.362244",
+      "longitude": "18.659277",
+      "speed": "0",
+      "course": "302",
+      "heading": "302",
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261004373",
+      "name": "SELKIE JOHNKA",
+      "latitude": "54.38908",
+      "longitude": "18.903088",
+      "speed": "37",
+      "course": "271",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261036190",
+      "name": "BLUE TOBAGO",
+      "latitude": "54.367409",
+      "longitude": "18.777832",
+      "speed": "1",
+      "course": "52",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261002356",
+      "name": "AIRISTO",
+      "latitude": "54.415401",
+      "longitude": "18.657064",
+      "speed": "44",
+      "course": "158",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "261007435",
+      "name": "SAILING FACTORY",
+      "latitude": "54.386497",
+      "longitude": "18.849409",
+      "speed": "32",
+      "course": "238",
+      "heading": null,
+      "typeSpecific": "Sailing vessel"
+    },
+    {
+      "mmsi": "212882000",
+      "name": "EMS HIGHWAY",
+      "latitude": "54.405708",
+      "longitude": "18.653542",
+      "speed": "0",
+      "course": "335",
+      "heading": "66",
+      "typeSpecific": "Vehicles Carrier"
+    },
+    {
+      "mmsi": "261008691",
+      "name": "KONSAL",
+      "latitude": "54.387615",
+      "longitude": "18.908367",
+      "speed": "69",
+      "course": "92",
+      "heading": "93",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "235019532",
+      "name": "SIR JOHN MURRAY",
+      "latitude": "54.365452",
+      "longitude": "18.649229",
+      "speed": null,
+      "course": null,
+      "heading": "131",
+      "typeSpecific": "Other type"
+    },
+    {
+      "mmsi": "261009179",
+      "name": "MALA BABCIA",
+      "latitude": "54.362045",
+      "longitude": "18.660273",
+      "speed": "0",
+      "course": "177",
+      "heading": "177",
+      "typeSpecific": "Pleasure craft"
+    },
+    {
+      "mmsi": "261023260",
+      "name": "KAROL",
+      "latitude": "54.387428",
+      "longitude": "18.731985",
+      "speed": "0",
+      "course": "225",
+      "heading": "110",
+      "typeSpecific": "Tug"
+    },
+    {
+      "mmsi": "231336000",
+      "name": "TINGANES",
+      "latitude": "54.3988",
+      "longitude": "18.761217",
+      "speed": "167",
+      "course": "219",
+      "heading": "283",
+      "typeSpecific": "Hopper Dredger"
+    }
+  ]
+}
